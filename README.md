@@ -1,11 +1,14 @@
-# Bug Reports – QA
+# Testes de API – QA
 
-Este repositório contém exemplos de relatórios de bugs simulados para fins de estudo em Qualidade de Software.
+Este repositório contém estudos e exemplos de testes de API realizados com foco em aprendizado de Qualidade de Software.
 
 ## Objetivo
-Praticar identificação de falhas e escrita de relatórios claros e objetivos.
+Praticar validação de endpoints, status code, corpo de resposta e regras de negócio.
+
+## Ferramenta utilizada
+- Postman
 
 ## Conteúdo
-- Bug de Login
-- Bug de Cadastro
-- Bug de Recuperação de Senha
+- Login API
+- Usuários API
+- Cadastro API
